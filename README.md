@@ -8,17 +8,17 @@ Lorem Ipsum
 - Max-J Rosalbert
 - Kaleb Therien
 
-### Roles
-#### Joanna
+## Roles
+### Joanna
 Lorem Ipsum
 
-#### Alexandre
+### Alexandre
 Lorem Ipsum
 
-#### Max
+### Max
 Lorem Ipsum
 
-#### Kaleb
+### Kaleb
 Lorem Ipsum
 
 ## Organisation des fichiers
