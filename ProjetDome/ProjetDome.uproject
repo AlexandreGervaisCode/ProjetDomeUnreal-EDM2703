@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.8",
+	"EngineAssociation": "5.7",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -27,8 +27,5 @@
 			"Name": "MIDIDevice",
 			"Enabled": true
 		}
-	],
-	"AdditionalPluginDirectories": [
-		"Content/Plugins"
 	]
 }
